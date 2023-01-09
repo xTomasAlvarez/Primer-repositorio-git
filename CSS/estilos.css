@@ -1,0 +1,28 @@
+p {
+			color: skyblue;
+		}
+		/**Esto es un comentario para CSS*/
+h1 {
+	font-family: 'Roboto', sans-serif;
+	weight: 3px;
+    	border: 30px solid darkred;
+	padding: 8px;
+	margin-top: 15px solid darkred;
+	margin-bottom: 20px solid darkblue;
+	margin-left: 30px solid skyblue;
+	margin-right: 50px solid yellow;
+	color: green;
+}
+#Parrrafo1 {
+	color: darkblue;
+	font-size: 39px;
+	border: 2px solid orange;
+
+}
+.clase2{
+	 color:lightsalmon;
+	 font-size: 25px;
+}
+* {
+  box-sizing: border-box;
+}
